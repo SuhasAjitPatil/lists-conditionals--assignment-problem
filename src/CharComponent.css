@@ -1,0 +1,11 @@
+.charBlock{
+    display: inline-block;
+    padding: 0px 26px;
+    text-align: center;
+    margin: 16px;
+    border: 2px solid skyblue;
+    font-size: 26px;
+    font-weight: 400;
+    background-color: seagreen;
+    color: whitesmoke;
+}
